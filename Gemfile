@@ -10,4 +10,4 @@ gem 'rspec'
 gem 'cucumber'
 gem 'selenium-webdriver'
 gem 'capybara'
-
+gem 'faraday'
