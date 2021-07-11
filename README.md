@@ -5,7 +5,7 @@
 To setup, you must have installed the ruby version not earlier than 2.7. 
 Install bundler with version number `2.2.19` by using the following command.
 
-####1. Bundler
+#### 1. Bundler
 ```bash
 gem install bundler:2.2.19
 ```
@@ -14,7 +14,7 @@ gem install bundler:2.2.19
 
 `bundler` is used to install / manage third-party plugins and library.
 
-####2. Install all the gems from the gemfile using the bundler by following below:
+#### 2. Install all the gems from the gemfile using the bundler by following below:
 
 ```bash
 bundle install
